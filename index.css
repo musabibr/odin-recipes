@@ -1,0 +1,13 @@
+div li ,p{
+    line-height: 1.8em;
+    font-size: 20px;
+    color: rgb(0, 0, 10);
+}
+.list{
+    font-size: large;
+    font-weight: bold;
+}
+a{
+    font-weight:bold;
+    text-decoration: none;
+}
